@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://haruurara.top/2022/06/15/%E5%8B%87%E8%80%85%E5%B8%A6%E4%B8%8A%E6%9D%91%E9%87%8C%E6%9C%80%E5%A5%BD%E7%9A%84%E5%89%91/</loc>
+    
+    <lastmod>2022-06-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://haruurara.top/about/index.html</loc>
     
     <lastmod>2022-06-13</lastmod>
@@ -37,15 +46,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://haruurara.top/2022/04/02/hello-world/</loc>
-    
-    <lastmod>2022-04-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://haruurara.top/</loc>
@@ -56,5 +56,12 @@
 
   
 
+  
+  <url>
+    <loc>http://haruurara.top/categories/%E5%86%92%E9%99%A9%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2022-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
